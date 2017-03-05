@@ -1,6 +1,7 @@
 import {
   AUTH_USER,
-  UNAUTH_USER
+  UNAUTH_USER,
+  AUTH_ERROR
 } from '../actions/types'
 
 export default function(state = {}, action) {
