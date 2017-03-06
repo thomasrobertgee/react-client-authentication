@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# React & Redux client-side authentication
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+##Getting Started##
 
-###Getting Started###
+` git clone https://github.com/thomasrobertgee/react-client-authentication.git`
 
-There are two methods for getting started with this repo.
+## Server side authentication
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+The repo goes hand in hand with a server side app that can be found [here](https://github.com/thomasrobertgee/node-boilerplate-server.git).
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
+or you can just clone it:
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+`git clone https://github.com/thomasrobertgee/node-boilerplate-server.git`
