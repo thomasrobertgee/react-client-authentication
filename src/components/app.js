@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import Header from './header'
+import React, { Component } from 'react' 
+import Header from './header' 
 
 export default class App extends Component {
   render() {
@@ -8,6 +8,6 @@ export default class App extends Component {
         <Header />
         {this.props.children}
       </div>
-    );
+    ) 
   }
 }

@@ -1,3 +1,3 @@
-import React from 'react'
+import React from 'react' 
 
-export default () => <div>A boilerplate authentication app, use this and add to it!</div>
+export default () => <div>Welcome to our slice of paradise</div> 
