@@ -4,7 +4,7 @@ import * as actions from '../../actions'
 
 class Signup extends Component {
   handleFormSubmit(formProps) {
-    // Need to do sign the user up
+    // Need to do something to sign the user up
     this.props.signupUser(formProps)
   }
 
