@@ -1,3 +1,3 @@
-import React from 'react' 
+import React from 'react'
 
-export default () => <div>Welcome to our slice of paradise</div> 
+export default () => <div>Welcome to the beginning of your fantastic app. Go ahead and navigate to sign up to make sure everything is working.</div> 
